@@ -3,6 +3,8 @@
 
 //Equipe: Amanda, Diogo, Hiago
 
+//Programação dinamica - Seleção dos pacotes
+
 struct pacote {
 	int peso;
 	int volume;
