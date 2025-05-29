@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <limits.h>
 
-
+//Equipe: Amanda, Diogo, Hiago
 
 struct pacote {
 	int peso;
